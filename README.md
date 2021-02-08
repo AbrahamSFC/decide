@@ -2,7 +2,8 @@
 
 Plataforma voto electrónico educativa
 =====================================
-
+Cambio en la rama practica3 para pull request
+Cambio de prueba rama practica3
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
